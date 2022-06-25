@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993215437036",
+    "project_id": "samit-p1labelfirebase",
+    "storage_bucket": "samit-p1labelfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993215437036:android:b11087cd8cf99362cc2dc9",
+        "android_client_info": {
+          "package_name": "dev.bigc.p1label"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993215437036-kat8cmmgompul8vufdm22l3q9s7hujrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf14NdiSzAKC_pGsKcZEabpXixUa5RptA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993215437036-kat8cmmgompul8vufdm22l3q9s7hujrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
